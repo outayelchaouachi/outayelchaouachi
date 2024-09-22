@@ -77,7 +77,7 @@
 <h3 align="center">Connect with me</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/outayelchaoauchi/" target="_blank">
+  <a href="https://www.linkedin.com/in/outayelchaoauchi/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-blue" alt="LinkedIn">
   </a>
   <a href="https://github.com/outayelchaouachi" target="_blank">
