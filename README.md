@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Outayel Chaouachi</h1>
-<h3 align="center">Passionate Software Developer from Tunisia</h3>
+<h3 align="center">Passionate Software Engineer from Tunisia</h3>
 
 <p align="center">
   **About Me:**
