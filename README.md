@@ -1,15 +1,92 @@
 <h1 align="center">Hi 👋, I'm Outayel Chaouachi</h1>
 <h3 align="center">Passionate Software Developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **LEVEL 1 POS**
-
-- 👨‍💻 All of my projects are available at [https://outayelchaouachi.github.io/Portfolio/](https://outayelchaouachi.github.io/Portfolio/)
-
-- 📫 How to reach me **outayel.chaouachi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  **About Me:**
+  <br>
+  I'm a dedicated software developer with a passion for creating innovative solutions. I've been honing my skills since a young age, constantly exploring new technologies and solving complex problems. 
+  <br>
+  Currently, I'm working as a Fablab Manager and Software Developer at Level 1 Hub, where I've contributed to various exciting projects. 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h3 align="center">Skills</h3>
+
+<div align="center">
+  <h2>Frontend Development</h2>
+  <img src="https://img.shields.io/badge/html5-orange" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-orange" alt="CSS3">
+  <img src="https://img.shields.io/badge/flutter-blue" alt="Flutter">
+  <img src="https://img.shields.io/badge/unreal_engine-orange" alt="Unreal Engine">
+</div>
+
+<div align="center">
+  <h2>Backend Development</h2>
+  <img src="https://img.shields.io/badge/python-yellow" alt="Python">
+  <img src="https://img.shields.io/badge/nodejs-green" alt="Node.js">
+  <img src="https://img.shields.io/badge/java-orange" alt="Java">
+  <img src="https://img.shields.io/badge/c-blue" alt="C">
+  <img src="https://img.shields.io/badge/c%2B%2B-blue" alt="C++">
+  <img src="https://img.shields.io/badge/c%23-blue" alt="C#">
+  <img src="https://img.shields.io/badge/.net-blue" alt="ASP.NET">
+  <img src="https://img.shields.io/badge/php-purple" alt="PHP">
+  <img src="https://img.shields.io/badge/spring-red" alt="Spring">
+  <img src="https://img.shields.io/badge/codeigniter-orange" alt="CodeIgniter">
+</div>
+
+<div align="center">
+  <h2>Mobile Development</h2>
+  <img src="https://img.shields.io/badge/flutter-blue" alt="Flutter">
+  <img src="https://img.shields.io/badge/unity-black" alt="Unity">
+</div>
+
+<div align="center">
+  <h2>Game Development</h2>
+  <img src="https://img.shields.io/badge/unity-black" alt="Unity">
+  <img src="https://img.shields.io/badge/unreal_engine-orange" alt="Unreal Engine">
+</div>
+
+<div align="center">
+  <h2>Database Management</h2>
+  <img src="https://img.shields.io/badge/oracle-red" alt="Oracle">
+  <img src="https://img.shields.io/badge/mysql-blue" alt="MySQL"> (replace with MySQL if that's what you use)
+</div>
+
+<div align="center">
+  <h2>DevOps and Infrastructure</h2>
+  <img src="https://img.shields.io/badge/git-blue" alt="Git">
+  <img src="https://img.shields.io/badge/github-black" alt="GitHub">
+  <img src="https://img.shields.io/badge/gitlab-red" alt="GitLab">
+  <img src="https://img.shields.io/badge/linux-black" alt="Linux">
+</div>
+
+<div align="center">
+  <h2>Extended Reality</h2>
+  <img src="https://img.shields.io/badge/virtual_reality-magenta" alt="Virtual Reality">
+  <img src="https://img.shields.io/badge/meta-blue" alt="Meta">
+</div>
+
+<div align="center">
+  <h2>Soft Skills</h2>
+  <img src="https://img.shields.io/badge/teamwork-green" alt="Teamwork">
+  <img src="https://img.shields.io/badge/communication-blue" alt="Communication">
+  <img src="https://img.shields.io/badge/problem%20solving-yellow" alt="Problem Solving">
+  <img src="https://img.shields.io/badge/creativity-orange" alt="Creativity">
+  <img src="https://img.shields.io/badge/time%20management-purple" alt="Time Management">
+</div>
+
+<h3 align="center">Connect with me</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-blue" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/outayelchaouachi" target="_blank">
+    <img src="https://img.shields.io/badge/github-black" alt="GitHub">
+  </a>
+  <a href="mailto:outayel.chaouachi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/email-green" alt="Email">
+  </a>
+</div>
+
+
+<h3 align="center">Let's collaborate!</h3>
