@@ -48,7 +48,7 @@
 <div align="center">
   <h2>Database Management</h2>
   <img src="https://img.shields.io/badge/oracle-red" alt="Oracle">
-  <img src="https://img.shields.io/badge/mysql-blue" alt="MySQL"> (replace with MySQL if that's what you use)
+  <img src="https://img.shields.io/badge/mysql-blue" alt="MySQL">
 </div>
 
 <div align="center">
