@@ -1,92 +1,192 @@
 <h1 align="center">Hi 👋, I'm Outayel Chaouachi</h1>
-<h3 align="center">Passionate Software Engineer from Tunisia</h3>
+<h3 align="center">Software Engineer | .NET · Angular · Full-Stack Development</h3>
 
 <p align="center">
-  **About Me:**
-  <br>
-  I'm a dedicated software developer with a passion for creating innovative solutions. I've been honing my skills since a young age, constantly exploring new technologies and solving complex problems. 
-  <br>
-  Currently, I'm working as a Fablab Manager and Software Developer at Level 1 Hub, where I've contributed to various exciting projects. 
+  <img src="https://komarev.com/ghpvc/?username=outayelchaouachi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="center">Skills</h3>
+---
 
-<div align="center">
-  <h2>Frontend Development</h2>
-  <img src="https://img.shields.io/badge/html5-orange" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-orange" alt="CSS3">
-  <img src="https://img.shields.io/badge/flutter-blue" alt="Flutter">
-  <img src="https://img.shields.io/badge/unreal_engine-orange" alt="Unreal Engine">
-</div>
+## 🚀 About Me
 
-<div align="center">
-  <h2>Backend Development</h2>
-  <img src="https://img.shields.io/badge/python-yellow" alt="Python">
-  <img src="https://img.shields.io/badge/nodejs-green" alt="Node.js">
-  <img src="https://img.shields.io/badge/java-orange" alt="Java">
-  <img src="https://img.shields.io/badge/c-blue" alt="C">
-  <img src="https://img.shields.io/badge/c%2B%2B-blue" alt="C++">
-  <img src="https://img.shields.io/badge/c%23-blue" alt="C#">
-  <img src="https://img.shields.io/badge/.net-blue" alt="ASP.NET">
-  <img src="https://img.shields.io/badge/php-purple" alt="PHP">
-  <img src="https://img.shields.io/badge/spring-red" alt="Spring">
-  <img src="https://img.shields.io/badge/codeigniter-orange" alt="CodeIgniter">
-</div>
+I'm a **software engineer** with **3+ years of experience** building production-ready applications and managing enterprise systems at scale. I specialize in **full-stack development** with a focus on **.NET, Angular, Flutter**, and backend infrastructure.
 
-<div align="center">
-  <h2>Mobile Development</h2>
-  <img src="https://img.shields.io/badge/flutter-blue" alt="Flutter">
-  <img src="https://img.shields.io/badge/unity-black" alt="Unity">
-</div>
+🔹 **Engineering Degree** from ESPRIT (Gaming & Immersive Experience, 2023)  
+🔹 Managed infrastructure for **400+ hotels** at Arabsoft (Oracle, SQL, Windows/Linux servers)  
+🔹 Built **8+ applications** from scratch — web platforms, mobile apps, and games  
+🔹 **10K+ downloads** across published mobile apps and games  
+🔹 Fast learner who thrives on **challenges** and **problem-solving**
 
-<div align="center">
-  <h2>Game Development</h2>
-  <img src="https://img.shields.io/badge/unity-black" alt="Unity">
-  <img src="https://img.shields.io/badge/unreal_engine-orange" alt="Unreal Engine">
-</div>
+📍 Based in **Tunis, Tunisia** | 🌍 Available for **remote work worldwide**
 
-<div align="center">
-  <h2>Database Management</h2>
-  <img src="https://img.shields.io/badge/oracle-red" alt="Oracle">
-  <img src="https://img.shields.io/badge/mysql-blue" alt="MySQL">
-</div>
+---
 
-<div align="center">
-  <h2>DevOps and Infrastructure</h2>
-  <img src="https://img.shields.io/badge/git-blue" alt="Git">
-  <img src="https://img.shields.io/badge/github-black" alt="GitHub">
-  <img src="https://img.shields.io/badge/gitlab-red" alt="GitLab">
-  <img src="https://img.shields.io/badge/linux-black" alt="Linux">
-</div>
+## 💼 Professional Experience
 
-<div align="center">
-  <h2>Extended Reality</h2>
-  <img src="https://img.shields.io/badge/virtual_reality-magenta" alt="Virtual Reality">
-  <img src="https://img.shields.io/badge/meta-blue" alt="Meta">
-</div>
+### 🏢 **JCJ Studios** — *Software Engineer* (Dec 2024 - Present)
+- Developed full-stack web applications using **.NET Core** and **Angular**
+- Built **5+ Unity games** (10K+ downloads) with C# and published on Google Play/App Store
+- Created **mobile apps** with Flutter and Firebase for real-time operations
+- Implemented clean architecture, SOLID principles, and design patterns
 
-<div align="center">
-  <h2>Soft Skills</h2>
-  <img src="https://img.shields.io/badge/teamwork-green" alt="Teamwork">
-  <img src="https://img.shields.io/badge/communication-blue" alt="Communication">
-  <img src="https://img.shields.io/badge/problem%20solving-yellow" alt="Problem Solving">
-  <img src="https://img.shields.io/badge/creativity-orange" alt="Creativity">
-  <img src="https://img.shields.io/badge/time%20management-purple" alt="Time Management">
-</div>
+### 🏢 **Level 1 Hub** — *Software Engineer* (Jul 2024 - Dec 2024)
+- Built **POS system** from scratch using Flutter, Firebase, and Cloud Functions
+- Developed **VR virtual tour** application with Unity and 360° imagery
+- Implemented real-time inventory management and payment processing
 
-<h3 align="center">Connect with me</h3>
+### 🏢 **Arabsoft** — *System & Database Administrator* (Jan 2024 - Jun 2024)
+- Managed production infrastructure for **400+ hotels** across Tunisia
+- Administered Oracle databases, Windows Server, Linux (Red Hat) with **99%+ uptime SLA**
+- Configured Oracle WebLogic, RAID systems, and business intelligence tools (Jasper Reports)
+- Handled document processing, data extraction, and automated reporting
 
-<div align="center">
+### 🏢 **Tadreex** — *VR/XR Developer* (Feb 2023 - Dec 2023)
+- Developed immersive **VR training modules** for occupational safety using Unity and C#
+- Integrated multilingual voice synthesis APIs and interactive guidance systems
+- Optimized UX with physics-based interactions and dynamic feedback
+
+---
+
+## 🛠️ Tech Stack
+
+### **Backend & .NET**
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### **Frontend & Mobile**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Databases & Infrastructure**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### **Game Development & VR**
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white)
+
+### **Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🎯 Featured Projects
+
+### 🚗 **CarTransac** — *ASP.NET Core, Angular, SQL Server*
+Full-stack vehicle marketplace with .NET backend and Angular frontend. Features: CRUD operations, JWT authentication, document processing, Entity Framework Core, role-based access control.
+
+### 💊 **PsyTunisie** — *Flutter, Firebase, WebRTC, Stripe*
+Healthcare platform connecting psychologists with patients. Video sessions, appointment booking, payment integration. **500+ active users**.
+
+### 🚚 **LivVet** — *Flutter, Firebase, Maps API*
+Real-time clothing delivery app with multi-role system, live tracking, inventory management, and payment integration.  
+📥 [**Google Play Store**](https://play.google.com/store/apps/details?id=com.jcjinformatique.livvet_app)
+
+### 📄 **Snap2Scan** — *Flutter, ML Kit, OCR*
+Document scanner with OCR text extraction, PDF generation, batch processing, and offline-first architecture.  
+📥 [**Google Play Store**](https://play.google.com/store/apps/details?id=com.jcj.snap2scan)
+
+### 💳 **Level 1 POS** — *Flutter, Firebase, Cloud Functions*
+Point-of-sale system for coworking spaces with real-time inventory, payment processing, and sales analytics.
+
+### 🥽 **VR Training Module** — *Unity, C#, Oculus SDK*
+Construction safety simulator with immersive scenarios, physics interactions, and multilingual guidance. Engineering capstone project.
+
+### 🎮 **Mobile Games** — *Unity, C#*
+5 published games with **10K+ downloads** on Google Play and App Store.  
+- Splash Logic, Golden Tower, HexaPop, Floaty Ship, HopZone, Trailrush
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=outayelchaouachi&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=outayelchaouachi&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outayelchaouachi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- ✅ **400+ production systems** managed with 99%+ uptime
+- ✅ **8+ applications** built and shipped from scratch
+- ✅ **10K+ downloads** across mobile apps and games
+- ✅ **Engineering degree** from ESPRIT (Gaming & Immersive Experience)
+- ✅ Published on **Google Play Store** and **App Store**
+
+---
+
+## 💡 What I'm Learning
+
+- Advanced **ASP.NET Core** patterns and microservices architecture
+- **Entity Framework** optimization and performance tuning
+- **Angular** best practices and state management
+- Cloud deployment with **Azure** and **Firebase**
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/outayelchaoauchi/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-blue" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/outayelchaouachi" target="_blank">
-    <img src="https://img.shields.io/badge/github-black" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:outayel.chaouachi@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-green" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
+  <a href="https://play.google.com/store/apps/dev?id=jcjstudios" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+  </a>
+</p>
 
+---
 
-<h3 align="center">Let's collaborate!</h3>
+## 💼 Open to Opportunities
+
+I'm actively seeking **full-time roles**, **contract work**, and **challenging projects** in:
+- .NET backend development
+- Full-stack web development (Angular + .NET)
+- Mobile app development (Flutter)
+- Enterprise system architecture
+- Document processing & data extraction
+
+🌍 **Available for remote work worldwide** | 📍 Based in Tunis, Tunisia
+
+---
+
+<p align="center">
+  <i>Let's build something great together!</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
